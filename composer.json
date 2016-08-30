@@ -1,5 +1,5 @@
 {
-    "name": "drmonty/chosen",
+    "name": "arkschools/chosen",
     "description": "Chosen is a library for making long, unwieldy select boxes more friendly.",
     "type": "component",
     "homepage": "http://harvesthq.github.io/chosen/",
